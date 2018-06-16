@@ -1,0 +1,24 @@
+{
+  "name": "homebridge-mansaa-smartshine",
+  "version": "1.0.0",
+  "description": "HomeBridge plugin to control Mansaa Smartshine Bluetooth Bulb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "homebridge",
+    "mansaa",
+    "mansaa smartshine",
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": "Shreyans Jain <shreyansqt@gmail.com> (http://shreyans.co/)",
+  "license": "MIT",
+  "dependencies": {
+    "noble": "^1.9.1"
+  }
+}
