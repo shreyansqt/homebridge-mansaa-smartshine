@@ -19,6 +19,10 @@
   "author": "Shreyans Jain <shreyansqt@gmail.com> (http://shreyans.co/)",
   "license": "MIT",
   "dependencies": {
-    "noble": "^1.9.1"
+    "noble": "^1.9.1",
+    "xpc-connection": "sandeepmistry/node-xpc-connection#26/head"
+  },
+  "resolutions": {
+    "xpc-connection": "sandeepmistry/node-xpc-connection#26/head"
   }
 }
